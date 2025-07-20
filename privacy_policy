@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy - Azimuth Finder</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #0a0a0a;
+      color: #e0e0e0;
+      padding: 2em;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1, h2 {
+      color: #4CAF50;
+    }
+    a {
+      color: #4CAF50;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy – Azimuth Finder</h1>
+  <p><strong>Effective Date:</strong> July 20, 2025</p>
+
+  <p>Azimuth Finder respects your privacy. This app is designed to work completely offline and does <strong>not</strong> collect, store, transmit, or share any personal data.</p>
+
+  <h2>📡 Data Collection</h2>
+  <p>Azimuth Finder does <strong>not</strong> collect:</p>
+  <ul>
+    <li>Personal information</li>
+    <li>Location data</li>
+    <li>Device information</li>
+    <li>Usage statistics</li>
+  </ul>
+
+  <h2>🧠 Local Storage</h2>
+  <p>If you choose to use the <em>history feature</em>, your recent coordinate inputs are saved <strong>locally on your device</strong>. This data never leaves your device and can be deleted at any time within the app.</p>
+
+  <h2>🕵️ Data Sharing</h2>
+  <p>We do <strong>not</strong> share any data with third parties. There are no ads, analytics, trackers, or background network requests.</p>
+
+  <h2>🧱 Permissions</h2>
+  <p>Azimuth Finder does not request or use any special permissions beyond basic storage (if needed for future updates).</p>
+
+  <h2>📬 Contact</h2>
+  <p>If you have any questions about this policy, contact: <a href="mailto:your@email.com">your@email.com</a></p>
+</body>
+</html>
